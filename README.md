@@ -6,8 +6,8 @@ The project is mainly divided into two parts :
 2.Consuming those Resources from the Online Book Store Frontend React Application.
 
 The architecture of the project is as follows :
-![1_FSEc5beoN-XDRFupQeJprQ](https://user-images.githubusercontent.com/86571685/126894889-429ea3bc-2b3c-4409-9e9a-d5358668c995.png)
-                      Fig.Architecture Diagram
+![1_FSEc5beoN-XDRFupQeJprQ](https://user-images.githubusercontent.com/86571685/126894889-429ea3bc-2b3c-4409-9e9a-d5358668c995.png)</br>
+                      Fig.Architecture Diagram</br>
 1.Online Book Store frontend is a React application that is hosted in an S3 bucket (A). The bucket has static web hosting enabled so that it can serve the website over the internet.</br>
 2.All the book images are stored in another S3 bucket (B) with public access so that both authenticated and unauthenticated users can view book images.</br>
 3.The React application communicates with the AWS backend resources securely via AWS Amplify JavaScript Library (C).</br>
