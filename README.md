@@ -19,7 +19,7 @@ The architecture of the project is as follows :
 
 In this architecture, the AWS Amplify plays a significant role.
 
-The front End Looks as follows:
+The front end Looks as follows:
 ![Screenshot (54)](https://user-images.githubusercontent.com/86571685/126894991-b8693ed8-5004-4548-87cb-bddf3a36e3c2.png)
 The Website also Consists of a featured book Collection
 ![Screenshot (55)](https://user-images.githubusercontent.com/86571685/126895046-8faf0f0e-220a-4db0-9df0-7f8410ef273f.png)
