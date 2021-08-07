@@ -22,6 +22,7 @@ The project is mainly divided into two parts :
 
 <h2>The Estimated Budget per month assuming the services run with maximum consistency is as follows : </h2>
 [Budget.xlsx](https://github.com/popcount43/Wisdomly/files/6949840/Budget.xlsx)
+
 ![Screenshot (59)](https://user-images.githubusercontent.com/86571685/128614351-c5723432-c223-46dd-adf0-fda56fea7479.png)
 
 <h1>The front end looks as follows : </h1>
