@@ -18,6 +18,7 @@ The project is mainly divided into two parts :
 <h3>In this architecture, the AWS Amplify plays a significant role.</h3>
 
 <h2>The Architecture Looks as follows:</h2>
+
 ![design](https://user-images.githubusercontent.com/86571685/128613898-5b6210f0-699d-40a0-a5ae-acede5b598be.png)
 
 <h2>The Estimated Budget per month assuming the services run with maximum consistency is as follows : </h2>
