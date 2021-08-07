@@ -20,6 +20,16 @@ The project is mainly divided into two parts :
 <h2>The Architecture Looks as follows:</h2>
 ![design](https://user-images.githubusercontent.com/86571685/128613898-5b6210f0-699d-40a0-a5ae-acede5b598be.png)
 
+<h2>The Estimated Budget per month assuming the services run with maximum consistency is as follows : </h2>
+[Budget.xlsx](https://github.com/popcount43/Wisdomly/files/6949840/Budget.xlsx)
+![Screenshot (59)](https://user-images.githubusercontent.com/86571685/128614351-c5723432-c223-46dd-adf0-fda56fea7479.png)
+
+<h1>The front end looks as follows : <h1>
+  ![Screenshot (54)](https://user-images.githubusercontent.com/86571685/128614375-9ffbab95-61a7-4827-bcd2-7b4f6820f932.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/86571685/128614400-91191513-b5ab-451d-ad9b-bba12049a1e5.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/86571685/128614401-f6634965-f091-48a8-a7b2-7ff35b433906.png)
+
+
 
 
 
