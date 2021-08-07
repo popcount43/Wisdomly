@@ -18,7 +18,8 @@ The project is mainly divided into two parts :
 <h3>In this architecture, the AWS Amplify plays a significant role.</h3>
 
 <h2>The Architecture Looks as follows:</h2>
-![undefined](https://user-images.githubusercontent.com/86571685/128613864-27fd263d-92b8-4ec1-ae4f-82a5ec0ba5ed.png)
+![design](https://user-images.githubusercontent.com/86571685/128613898-5b6210f0-699d-40a0-a5ae-acede5b598be.png)
+
 
 
 
