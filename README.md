@@ -15,7 +15,7 @@ The project is mainly divided into two parts :
 <li>The AppSync API will use VTL (Velocity Template Language) scripts (G) to manipulate data in the DynamoDB (F). AWS Amplify Library automatically generates these VTL scripts.</br>
 <li>When a customer has placed an order, AppSync invokes the “Make Payment” lambda function(H). It will attempt to charge the customer using Stripe. If the payment has been successful, AppSync will invoke the “Create Order” lambda function(I) to create the order in the database.</br>
 </ol>
-In this architecture, the AWS Amplify plays a significant role.
+<h3>In this architecture, the AWS Amplify plays a significant role.</h3>
 
 The front end Looks as follows:
 ![Screenshot (54)](https://user-images.githubusercontent.com/86571685/126894991-b8693ed8-5004-4548-87cb-bddf3a36e3c2.png)
