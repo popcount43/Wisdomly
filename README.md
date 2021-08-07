@@ -17,12 +17,9 @@ The project is mainly divided into two parts :
 </ol>
 <h3>In this architecture, the AWS Amplify plays a significant role.</h3>
 
-The front end Looks as follows:
-![Screenshot (54)](https://user-images.githubusercontent.com/86571685/126894991-b8693ed8-5004-4548-87cb-bddf3a36e3c2.png)
-The Website also Consists of a featured book Collection
-![Screenshot (55)](https://user-images.githubusercontent.com/86571685/126895046-8faf0f0e-220a-4db0-9df0-7f8410ef273f.png)
-![Screenshot (57)](https://user-images.githubusercontent.com/86571685/126895054-e2ed7f07-970a-4881-b960-06ece09f3971.png)
-![Screenshot (56)](https://user-images.githubusercontent.com/86571685/126895064-4301f8cb-05fe-48a4-9aba-bc48ee9838d2.png)
+<h2>The Architecture Looks as follows:</h2>
+![undefined](https://user-images.githubusercontent.com/86571685/128613864-27fd263d-92b8-4ec1-ae4f-82a5ec0ba5ed.png)
+
 
 
 
